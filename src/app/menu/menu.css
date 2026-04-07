@@ -1,3 +1,8 @@
+*{
+    margin: 1;
+    padding: 0;
+    font-family: Inter;
+}
 
  .logo-viato{
     width:167px;

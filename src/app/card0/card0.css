@@ -1,0 +1,28 @@
+.ppp{
+width: 200px;
+height: 200px;
+}
+.aberturaestrutura{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+
+}
+.titulowhy{
+
+    display: flex;
+ margin-left: 410px;
+ margin-top: 80px;
+}
+
+.letra1{
+font-size: 20px;
+}
+
+.pppp{
+    font-size: 17px;
+    height: 200px;
+    width: 200px;
+}

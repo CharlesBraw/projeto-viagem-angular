@@ -1,0 +1,24 @@
+.botaobook{
+    border-radius: 15px;
+    width: 110px;
+    height: 60px;
+    font-size: 15px;
+    margin: 10px;
+    background-color: #EB662B;
+    color: #ffff;
+    border: none;
+}
+.mulherfoto{
+    width: 750px;
+    height: 606.1199951171875px;
+}
+.texttotamanho{
+    font-size: 40px;
+    width: 366.1400146484375px;
+}
+.tudoporcento{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 100px;
+}

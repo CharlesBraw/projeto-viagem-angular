@@ -1,0 +1,25 @@
+.alinhamentotren{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    
+}
+.titulotren{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+   
+}
+.trentamanho{
+    font-size: 35px;
+}
+.trentxteimg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
